@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Detailed restaurant dataset for Bethlehem, Pennsylvania. Covers the local dining market filtered by the Restaurants category group with ratings, review trends, competitive rankings, and market positioning data. Refreshed weekly.",
+  "config_name": "All Restaurants in Bethlehem, Pennsylvania, US",
+  "export_job_id": "36657698-64b5-44e5-9ac9-02060511e0ca",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 135587,
+  "location_name": "Bethlehem",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-bethlehem-pennsylvania-us-sample-135587",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/135587/beamstation_135587_restaurants-us-pa_SAMPLE_DIST.csv",
+  "sample_pct": 9.9,
+  "sample_records": 52,
+  "sample_sha256": "a6d418d9d7555a0cbfffa7a93cceabc9ec38a1de1a48c890e6a3286d094413ba",
+  "sample_size_bytes": 203245,
+  "total_records": 525,
+  "updated_at": "2026-04-07T11:49:00.557694+00:00"
+}
