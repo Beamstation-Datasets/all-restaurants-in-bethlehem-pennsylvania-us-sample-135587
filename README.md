@@ -9,9 +9,9 @@
 | Dataset ID | `135587` |
 | Location | Bethlehem |
 | Category | Restaurants |
-| Full dataset size | 525 records |
-| Free sample size | 52 records (9.9%) |
-| Last export | 2026-04-07T11:49:00.557694+00:00 |
+| Full dataset size | 526 records |
+| Free sample size | 52 records (9.89%) |
+| Last export | 2026-04-14T11:43:25.682646+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-bethlehem-pennsylvania-us-sample-135587/releases/download/sample-latest/beamstation_135587_restaurants-us-pa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
