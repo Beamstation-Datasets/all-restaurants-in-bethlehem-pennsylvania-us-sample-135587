@@ -1,6 +1,6 @@
 # All Restaurants in Bethlehem, Pennsylvania, US
 
-> Free BeamStation sample export with 52 rows and masked direct-contact fields.
+> Free BeamStation sample export with 43 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `135587` |
 | Location | Bethlehem |
 | Category | Restaurants |
-| Full dataset size | 526 records |
-| Free sample size | 52 records (9.89%) |
-| Last export | 2026-04-14T11:43:25.682646+00:00 |
+| Full dataset size | 430 records |
+| Free sample size | 43 records (10.0%) |
+| Last export | 2026-04-21T12:14:40.782395+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-bethlehem-pennsylvania-us-sample-135587/releases/download/sample-latest/beamstation_135587_restaurants-us-pa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
