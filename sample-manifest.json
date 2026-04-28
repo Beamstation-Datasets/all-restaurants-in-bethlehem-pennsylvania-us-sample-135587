@@ -1,12 +1,12 @@
 {
-  "export_job_id": "3215e3eb-3ab3-4caf-8e84-d6c0c7989d13",
+  "export_job_id": "9ae4f90c-de64-4671-aaf6-d5a05bfaefb0",
   "id_short": 135587,
-  "published_at": "2026-04-21T19:04:18Z",
+  "published_at": "2026-04-28T19:38:29Z",
   "repo_name": "all-restaurants-in-bethlehem-pennsylvania-us-sample-135587",
   "sample_asset_name": "beamstation_135587_restaurants-us-pa_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/135587/beamstation_135587_restaurants-us-pa_SAMPLE_DIST.csv",
-  "sample_records": 43,
-  "sample_sha256": "faade6ab695544732bb219d92ed3df705e300300d53250a8dc796d5a4ca0a9ef",
-  "sample_size_bytes": 178480,
-  "total_records": 430
+  "sample_records": 49,
+  "sample_sha256": "1cb95fc0c04ee54255a50cae388aabaf73f8c79ea2ec4f6c93c69c99ff834335",
+  "sample_size_bytes": 165010,
+  "total_records": 493
 }
